@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64e6e758-7828-4e45-a5fb-2676d7665c49" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/5-angular-enrich-user-input-with-html/app.js" afterPath="$PROJECT_DIR$/src/5-angular-enrich-user-input-with-html/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/5-angular-enrich-user-input-with-html/index.html" afterPath="$PROJECT_DIR$/src/5-angular-enrich-user-input-with-html/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,12 +34,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <first_editor relative-caret-position="510">
+                <caret line="34" column="2" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -49,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/5-angular-enrich-user-input-with-html/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -156,9 +154,9 @@
         <option value="$PROJECT_DIR$/src/6-angular-enrich-user-input-with-escapeHtml/app.js" />
         <option value="$PROJECT_DIR$/src/7-angular-enrich-user-input-with-ngBindHtml/index.html" />
         <option value="$PROJECT_DIR$/src/7-angular-enrich-user-input-with-ngBindHtml/app.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/5-angular-enrich-user-input-with-html/index.html" />
         <option value="$PROJECT_DIR$/src/5-angular-enrich-user-input-with-html/app.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -887,12 +885,12 @@
       <updated>1514536140636</updated>
       <workItem from="1514536141857" duration="3276000" />
       <workItem from="1514554392042" duration="1832000" />
-      <workItem from="1514635089352" duration="4757000" />
+      <workItem from="1514635089352" duration="4902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9865000" />
+    <option name="totallyTimeSpent" value="10010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3734" y="235" width="1717" height="986" extended-state="0" />
@@ -1180,17 +1178,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/6-angular-enrich-user-input-with-escapeHtml/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1220,6 +1207,17 @@
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="34" column="2" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

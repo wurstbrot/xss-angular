@@ -2,8 +2,13 @@
 An insecure application. Inspired by Sebastian Lekies (see https://www.youtube.com/watch?v=iUaZ0_bwcqA).
 
 # Requirements
-Run docker-compose
+* docker
+* docker-compose
 
+# Run
+Run `docker-compose` up in this folder.
+
+# Examples
 ## Example 0: Example for an angular application 
 http://localhost/0-angular-example
 
@@ -21,11 +26,11 @@ http://localhost/3-angular-server-side-template-injection/?name={{deleteUserAcco
 ## Example 4: Using variables from server-side (right way)
 http://localhost/3-good/?name={{deleteUserAccount()}}
 
-# Example 5:
+## Example 5:
 Show http://localhost/2-angular with input <b>Timo</b>
 
-# Example 6:
+## Example 6:
 Show http://localhost/2-angular with input <b>Timo</b>
 
-# Example 7: Show the corret way with ngSanitize
+## Example 7: Show the corret way with ngSanitize
 http://localhost/7-angular-enrich-user-input-with-ngBindHtml/
