@@ -1,0 +1,21 @@
+version: '2'
+
+services:
+    nginx:
+        image: nginx:1.10.2
+        ports:
+            - 80:80
+        restart: always
+        volumes:
+            - ./nginx/conf:/etc/nginx/conf.d
+            - ./src:/code
+        links:
+            - php
+
+    php:
+        image: php:7.1-fpm
+        expose:
+            - 9000
+        restart: always
+        volumes:
+            - ./src:/code
