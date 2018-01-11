@@ -27,10 +27,10 @@ http://localhost/3-angular-server-side-template-injection/?name={{deleteUserAcco
 http://localhost/3-good/?name={{deleteUserAccount()}}
 
 ## Example 5:
-Show http://localhost/2-angular with input <b>Timo</b>
+Show http://localhost/2-angular with input <b>Timo</b> and <img src=foo onerror=alert(1)>
 
 ## Example 6:
-Show http://localhost/2-angular with input <b>Timo</b>
+Show http://localhost/2-angular with input <b>Timo</b> and <img src=foo onerror=alert(1)> and <iframe src=foo onmouseover="alert(1)">
 
 ## Example 7: Show the corret way with ngSanitize
 http://localhost/7-angular-enrich-user-input-with-ngBindHtml/
