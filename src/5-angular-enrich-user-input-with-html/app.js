@@ -5,4 +5,3 @@ angular.module('HelloUserApp', [])
             $scope.greeting =$sce.trustAsHtml( "<i>Hello</i> " + $scope.name);
         };
     }])
-

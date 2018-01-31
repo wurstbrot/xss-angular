@@ -1,6 +1,6 @@
 angular.module('HelloUserApp', [])
     .controller('HelloUserController', function ($scope, $http) {
-            $http.get("name.php")
+            $http.get("name.json")
                 .then(function(response) {
                     $scope.names= response.data;
                 });
